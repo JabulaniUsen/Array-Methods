@@ -1,4 +1,4 @@
-// Array Methods
+// Array Methods by Usenobong Usen(Jabulani)
 
 //All arrays used
 
